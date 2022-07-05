@@ -8,6 +8,12 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones. Apasionado por las 
 
 💬 Profundizando desarrollo con React - Redux - JavaScript - NodeJs- Express - Sequelize -PostgreSQL
 
+📄  Trabaje como desarrollador en C++, SQL y ASP.
+    Continué en infraestrutura de sistemas: servidores, redes, mainframes
+    Dearrollé aptitudes y me desempeñe en el área de seguridad informática y sistemas de seguridad electrónica
+    Regresé al mundo dev con Javascript y las tecnologías de desarrollo de app web full stack 
+    
+
 <!--
 **betopalma/betopalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
