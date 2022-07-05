@@ -1,5 +1,9 @@
 ### Gracias por visitarme! Soy Norberto (Beto) Palma 👋
-🔭 I’m currently working on ...
+
+Actualmente estoy enfocado en el desarrollo de aplicaciones. Apasionado por las nuevas tecnologías, y convencido del invalorable aporte que la comunidad dev hace a la humanidad. Estoy aca porque quiero ser parte de esta transformación y crecimiento.
+
+🔭 Estoy comenzando a trabajar con un proyecto de una app full stack de gestión de tareas de servicio tecnico e instalaciones, incluyendo presupuestos, gastos y cobranzas, para permitir obtener indicadores de gestión de rentabilidad.
+
 <!--
 **betopalma/betopalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
