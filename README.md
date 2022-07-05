@@ -13,14 +13,14 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones. Apasionado por las 
     Dearrollé aptitudes y me desempeñe en el área de seguridad informática y sistemas de seguridad electrónica
     Regresé al mundo dev con Javascript y las tecnologías de desarrollo de app web full stack 
     
-
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+</p>
 
 <!--
 ##### Programming languages
 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
-</p>
+
 **betopalma/betopalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
