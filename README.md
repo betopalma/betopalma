@@ -1,3 +1,4 @@
+
 ### Gracias por visitarme! Soy Norberto (Beto) Palma 👋
 
 Actualmente estoy enfocado en el desarrollo de aplicaciones. Apasionado por las nuevas tecnologías, y convencido del invalorable aporte que la comunidad dev hace a la humanidad. Estoy aca porque quiero ser parte de esta transformación y crecimiento.
@@ -13,7 +14,9 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones. Apasionado por las 
     Dearrollé aptitudes y me desempeñe en el área de seguridad informática y sistemas de seguridad electrónica
     Regresé al mundo dev con Javascript y las tecnologías de desarrollo de app web full stack 
     
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/norbertopalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norbertopalma" height="30" width="40" /></a>
 </p>
 
 <!--
