@@ -24,6 +24,11 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones. Apasionado por las 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betopalma&label=Profile%20views&color=0e75b6&style=flat" alt="betopalma" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=betopalma&show_icons=true&locale=en&layout=compact" alt="betopalma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=betopalma&show_icons=true&locale=en" alt="betopalma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betopalma&" alt="betopalma" /></p>
 <!--
 ##### Programming languages
 
